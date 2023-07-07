@@ -1,5 +1,4 @@
-# Housing-Project-ml
-ml House price prediction project
+# Ml project diamond price prediction
 
 ###Create Virtual Environment
 ```
